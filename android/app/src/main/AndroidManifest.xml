@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nelson.playfun.playfun">
+    package="com.nelson.playfun">
    <application
         android:label="playfun"
         android:icon="@mipmap/ic_launcher">

@@ -1,4 +1,4 @@
-package com.nelson.playfun.playfun
+package com.nelson.playfun
 
 import io.flutter.embedding.android.FlutterActivity
 
